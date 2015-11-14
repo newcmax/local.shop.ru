@@ -1,0 +1,2 @@
+[Sat Nov 14 16:20:56.420465 2015] [:error] [pid 7704:tid 1800] [client 127.0.0.1:40497] PHP Fatal error:  Class 'yii\\jui\\DatePicker' not found in C:\\Server\\Site\\local.shop.ru\\modules\\test\\views\\default\\index.php on line 67
+[Sat Nov 14 16:23:11.262353 2015] [:error] [pid 7704:tid 1788] [client 127.0.0.1:40507] PHP Fatal error:  Class 'yii\\jui\\DatePicker' not found in C:\\Server\\Site\\local.shop.ru\\modules\\test\\views\\default\\index.php on line 67, referer: http://local.shop.ru/Dictonary/default/index
